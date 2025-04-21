@@ -63,6 +63,7 @@ body{
     font-weight: 600;
     color: rgb(0, 97, 232);
     text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+    white-space: nowrap;
 }
 .team_talk{
     font-family: "Winky Rough", sans-serif;
